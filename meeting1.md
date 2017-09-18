@@ -16,15 +16,15 @@
 -teaching how to put content on site: $50/hr
 
 Website:
-Not responsive
-Nav bar disappears
-There are 2 pages
- - Heating and air conditioning
- - Plumbing
-Use the Van picture
-We need the domain information
-Change "big buttons"
-Wife loves comic sans
-Make phone number clickable
-Incorporate his colours
+- Not responsive
+- Nav bar disappears
+- There are 2 pages
+     - Heating and air conditioning
+     - Plumbing
+- Use the Van picture
+- We need the domain information
+- Change "big buttons"
+- Wife loves comic sans
+- Make phone number clickable
+- Incorporate his colours
 
